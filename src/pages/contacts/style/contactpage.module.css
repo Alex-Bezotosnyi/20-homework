@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*align-items: center;*/
+    font-family: "Comfortaa", cursive;
+    padding-top: 50px;
+}
+
+.wrapper__contact_item {
+    border-radius: 10px;
+    color: #282c34;
+    box-shadow: 2px 2px 5px #a4a4a4;
+    transition: box-shadow 0.3s ease-in-out;
+    font-weight: 700;
+    text-align: left;
+    padding: 15px 10px;
+
+}
+
+.wrapper__contact_up {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wrapper__contact_phone {
+    color: #3e3e3e;
+    font-size: 18px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.wrapper__contact_picture {
+    padding-bottom: 10px;
+}
+
+.wrapper__contact_picture img {
+    width: 150px;
+    height: 150px;
+}
+
+.wrapper_name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+}
+
+.wrapper__contact_search img {
+    width: 20px;
+    height: 20px;
+}
