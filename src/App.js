@@ -14,7 +14,7 @@ function App() {
             <Navbar/>
             <div className="wrapper">
                 <Routes>
-                    <Route path="/home" element={<Home/>}/>
+                    <Route path="*" element={<Home/>}/>
                     <Route path="/src/pages/posts/main-posts" element={<AppPosts/>}/>
                     <Route path="/gallery" element={<Gallery/>}/>
                     <Route path="/src/pages/contacts/" element={<SearchFilter/>}/>
