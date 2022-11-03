@@ -11,8 +11,8 @@ import SearchFilter from "./pages/contacts/contacts";
 function App() {
     return (
         <>
-            <Navbar/>
             <BrowserRouter>
+            <Navbar/>
             <div className="wrapper">
                 <Routes>
                     <Route path="/" element={<Home />}/>
