@@ -3,7 +3,7 @@ import Navbar from "./pages/navbar/navbar";
 import Home from "./pages/home/home";
 import AppPosts from "./pages/posts/main-posts";
 import Gallery from "./pages/gallery/gallery";
-import {Route, Routes, BrowserRouter} from "react-router-dom";
+import {Route, Routes} from "react-router-dom";
 import ContactPage from "./pages/contacts/contactpage";
 import contacts from "./pages/contacts/data";
 import SearchFilter from "./pages/contacts/contacts";
@@ -11,7 +11,6 @@ import SearchFilter from "./pages/contacts/contacts";
 function App() {
     return (
         <>
-            <BrowserRouter>
             <Navbar/>
             <div className="wrapper">
                 <Routes>
@@ -23,7 +22,6 @@ function App() {
                     <Route path="*" element={<Home />}/>
                 </Routes>
             </div>
-            </BrowserRouter>
         < />
     );
 }
