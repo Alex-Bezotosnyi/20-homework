@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/20-homework/static/css/main.0bb40993.css",
-    "main.js": "/20-homework/static/js/main.d22868e1.js",
-    "static/js/787.71a70df1.chunk.js": "/20-homework/static/js/787.71a70df1.chunk.js",
+    "main.css": "/20-homework/static/css/main.08f923da.css",
+    "main.js": "/20-homework/static/js/main.edded231.js",
     "static/media/shawshank-redemption.png": "/20-homework/static/media/shawshank-redemption.74dc98f6603a01fe6cb9.png",
     "static/media/green-mile.png": "/20-homework/static/media/green-mile.5b2176ed820e117fb879.png",
     "static/media/andy-dufresne.png": "/20-homework/static/media/andy-dufresne.fdfcd3925f0033ed4f17.png",
@@ -15,12 +14,11 @@
     "static/media/male.png": "/20-homework/static/media/male.e3aa3781749f56ddb8c4.png",
     "static/media/female.png": "/20-homework/static/media/female.c58f909be94739305f6a.png",
     "index.html": "/20-homework/index.html",
-    "main.0bb40993.css.map": "/20-homework/static/css/main.0bb40993.css.map",
-    "main.d22868e1.js.map": "/20-homework/static/js/main.d22868e1.js.map",
-    "787.71a70df1.chunk.js.map": "/20-homework/static/js/787.71a70df1.chunk.js.map"
+    "main.08f923da.css.map": "/20-homework/static/css/main.08f923da.css.map",
+    "main.edded231.js.map": "/20-homework/static/js/main.edded231.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bb40993.css",
-    "static/js/main.d22868e1.js"
+    "static/css/main.08f923da.css",
+    "static/js/main.edded231.js"
   ]
 }
